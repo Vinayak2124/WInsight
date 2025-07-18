@@ -7,4 +7,3 @@ plotly
 emoji
 urlextract
 wordcloud
-re
